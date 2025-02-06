@@ -25,7 +25,7 @@ A CLI application to manage a folder tree structure using Node.js.
 
 ## Setup
 1. Clone the repository:
-   `git clone https://github.com/your-username/folder-tree-cli.git`
+   `git clone https://github.com/Linh-0v0/folder-tree-cli`
 2. Navigate to the project directory:
     `cd folder-tree-cli`
 3. Run the application:
